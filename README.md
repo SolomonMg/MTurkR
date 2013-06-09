@@ -1,5 +1,5 @@
 # MTurkR
-This is a fork of Thomas Leeper's excellent MTurkR package, which provides an R interface to Amazon Mechanical Turk's Servers.  Note that I have made only a small contribution to this, 99.9% is Tom's code.  
+This is a fork of Thomas Leeper's excellent MTurkR package, which provides an R interface to Amazon Mechanical Turk's API.  Note that I have written only a few lines of contribution code here, 99.9% is Tom's.  
 
 See http://www.thomasleeper.com/MTurkR/index.html for details, examples and other resources. 
 
