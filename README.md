@@ -1,8 +1,7 @@
 # MTurkR
-This is a fork of Thomas Leeper's excellent MTurkR package, which provides an R interface to
-Amazon Mechanical Turk's Servers.
+This is a fork of Thomas Leeper's excellent MTurkR package, which provides an R interface to Amazon Mechanical Turk's Servers.  Note that I have made only a small contribution to this, 99.9% is Tom's code.  
 
-See http://www.thomasleeper.com/MTurkR/index.html for details. 
+See http://www.thomasleeper.com/MTurkR/index.html for details, examples and other resources. 
 
 ## HOW TO INSTALL:
 To install, run the following:
