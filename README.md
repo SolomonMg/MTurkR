@@ -1,0 +1,14 @@
+# MTurkR
+This is a fork of Thomas Leeper's excellent MTurkR package. 
+It is useful in maintaining HITs.
+
+See http://www.thomasleeper.com/MTurkR/index.html for details. 
+
+To install, run the following:
+
+    # install.packages("devtools")
+    library(devtools)
+    install_github(repo="MTurkR",
+    	username = "solomonm")
+
+This version has a few fixes, which
